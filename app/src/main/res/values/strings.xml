@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (C) 2021 The Android Open Source Project.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">News App</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas blandit velit arcu, feugiat maximus metus molestie sit amet. Maecenas varius dui ut dui dignissim consequat. Phasellus finibus vehicula nulla, in commodo odio faucibus a. Integer pulvinar convallis eros ut facilisis. Pellentesque a nunc eget enim dignissim rutrum. Cras interdum viverra velit ac porta. Vestibulum vitae leo at diam aliquet vulputate. Nulla laoreet metus nisl, a fringilla leo porttitor sit amet. Quisque nisi tellus, pharetra at tincidunt vitae, vestibulum ut odio. Pellentesque imperdiet nibh et commodo volutpat. Suspendisse eget nisi scelerisque, rhoncus leo ac, consequat nulla. Quisque ornare nibh massa, sit amet tristique magna euismod ac. Quisque quis dui diam.
+        Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur pretium magna ut arcu scelerisque auctor. Integer vel diam sit amet sem vulputate ultricies in eu lacus. Morbi ullamcorper leo nec dolor ornare, blandit laoreet urna euismod. Fusce bibendum, mi ac cursus interdum, massa lorem consequat ipsum, non faucibus mauris risus vitae orci. Integer maximus eros quis massa pharetra consectetur. Morbi vulputate velit sit amet sapien convallis vulputate. Suspendisse lacinia rhoncus velit vel pellentesque. Nulla id tempor elit. Phasellus euismod condimentum sollicitudin. Nunc ut elit id mauris facilisis dignissim. Sed sed vulputate lacus, in gravida sem. Ut et velit in augue condimentum sagittis at non augue. Vestibulum eu dignissim velit, a accumsan quam. Nam tincidunt erat urna, ac dapibus urna volutpat eget.</string>
+</resources>
